@@ -1,6 +1,6 @@
-[submodule "lib/midi"]
-	path = lib/midi
-	url = https://github.com/daxxog/midi
-[submodule "lib/soundfont-player"]
-	path = lib/soundfont-player
+[submodule "lib/src/soundfont-player"]
+	path = lib/src/soundfont-player
 	url = https://github.com/daxxog/soundfont-player
+[submodule "lib/src/midi"]
+	path = lib/src/midi
+	url = https://github.com/daxxog/midi
